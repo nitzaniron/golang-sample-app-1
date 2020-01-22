@@ -3,7 +3,7 @@ steps:
   main_clone:
     title: Cloning main repository...
     type: git-clone
-    repo: 'codefresh-contrib/golang-sample-app'
+    repo: 'nitzan-codefresh/golang-sample-app'
     revision: master
     git: github
   MyAppDockerImage:
